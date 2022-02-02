@@ -2,9 +2,9 @@
 
 ## I'm a student developer
 
-- 🌱 I’m looking to learn more about web-dev
+- 🌱 I’m looking to learn more about web-dev and making application
 - 🥅 Continuous Goals: Expand my skills as a developer
-- ⚡ Fun fact: Diamond on Rainbow Six: Siege*
+- ⚡ Fun fact: Diamond on Rainbow Six: Siege and Global on CS:Go
 
 ### Connect with me:
 
