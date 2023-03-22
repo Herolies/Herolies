@@ -17,6 +17,7 @@
 ### Languages and Tools:
 <!--Editors-->
 ![](https://shields.io/badge/editor-VS--Code-green?logo=visual-studio-code&style=for-the-badge)
+![](https://img.shields.io/badge/Editor-IntelliJ-Green)
 
 <!--Programming Languages-->
 ![](https://shields.io/badge/code-html-green?logo=html5&style=for-the-badge)
