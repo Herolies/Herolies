@@ -17,7 +17,7 @@
 ### Languages and Tools:
 <!--Editors-->
 ![](https://shields.io/badge/editor-VS--Code-green?logo=visual-studio-code&style=for-the-badge)
-![](https://img.shields.io/badge/Editor-IntelliJ-Green)
+![](https://shields.io/badge/Editor-IntelliJ-Green)
 
 <!--Programming Languages-->
 ![](https://shields.io/badge/code-html-green?logo=html5&style=for-the-badge)
@@ -35,12 +35,12 @@
   <br />
   <summary>:zap: GitHub Stats</summary>
 
-  [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herolies)]
+  [![Andres' GitHub stats](https://github-readme-stats.vercel.app/api?username=Herolies)]
 
 </details>
 
 
-[website]: https://jhern603.github.io/
+[website]: #
 [instagram]: https://www.instagram.com/kjaerlighet_ao/
 [linkedin]: https://www.linkedin.com/in/arojas97/
 [webdevplaylist]: #
